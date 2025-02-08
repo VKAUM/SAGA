@@ -5,7 +5,7 @@ The *SAGA AI Interview System* is an advanced recruitment platform integrating *
 
 ## Features
 - *Automated Audio & Video Proctoring*: Ensures secure, fair interviews by monitoring verbal and non-verbal cues.
-- *Speech & Sentiment Analysis: Uses **NLP and AI-driven techniques* to evaluate candidates' verbal responses.
+- *Speech & Sentiment Analysis: Uses *NLP and AI-driven techniques* to evaluate candidates' verbal responses.
 - *Facial Recognition & Emotion Detection*: Analyzes expressions, attention, and stress levels.
 - *Environmental Monitoring*: Detects external assistance and anomalies to maintain interview integrity.
 - *Real-time Evaluation & Alerts*: Flags suspicious activities and provides instant feedback.
@@ -47,7 +47,7 @@ The system scores candidates on a *scale of 0 to 1* across three primary areas:
 - *Sophisticated Feedback Tools*: Detailed insights for recruiters and candidates.
 
 ## Conclusion
-The *SAGA AI Interview System* represents a *cutting-edge* solution in AI-driven recruitment, *enhancing fairness, efficiency, and security. With its **scalable architecture, **real-time monitoring, and **bias-free evaluation, it is poised to **revolutionize* modern hiring practices.
+The *SAGA AI Interview System* represents a *cutting-edge* solution in AI-driven recruitment, *enhancing fairness, efficiency, and security. With its *scalable architecture, **real-time monitoring, and *bias-free evaluation, it is poised to *revolutionize* modern hiring practices.
 
 ---
 For more information, please refer to the *research paper* or contact the development team.
